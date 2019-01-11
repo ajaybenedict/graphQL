@@ -1,0 +1,17 @@
+
+.locate-page-wrap {
+    margin: 15px 20px;
+}
+
+.store-location-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.location-box {
+    height: 573px;	
+    width: 360px;
+    border: 1px solid silver;
+    flex: 1 1 33%;
+    
+}
